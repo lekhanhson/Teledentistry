@@ -551,9 +551,9 @@
       }
 
       transcriptEl.innerHTML =
-        "<b>Học sinh nói:</b> " + (data.transcript || "(không nhận được)");
+        "<b>Bạn nói:</b> " + (data.transcript || "(không nhận được)");
       aiTextEl.innerHTML =
-        "<b>AI trả lời:</b> " + (data.ai_text || "(không nhận được)");
+        "<b>Trợ lý trả lời:</b> " + (data.ai_text || "(không nhận được)");
 
       if (data.audio_url) {
         audioPlayer.src = data.audio_url;
