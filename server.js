@@ -88,7 +88,7 @@ CÁCH LÀM VIỆC (WORKFLOW)
 CẤU TRÚC TRẢ LỜI BẮT BUỘC (FORMAT)
 Luôn trình bày theo các mục sau (dùng tiêu đề rõ ràng, bullet ngắn):
 A. Tóm tắt tình huống (1–2 dòng)
-B. Câu hỏi cần bổ sung (nếu thiếu dữ kiện) — tối đa 5 câu hỏi trọng tâm
+B. Câu hỏi cần bổ sung (nếu thiếu dữ kiện) — tối đa 3 câu hỏi trọng tâm
 C. Nhận định chuyên môn sơ bộ (khả năng 1–3) + dấu hiệu gợi ý
 D. Hướng xử trí an toàn tại nhà (step-by-step)
 E. Khi nào cần khám ngay / dấu hiệu cảnh báo (liệt kê ngắn)
